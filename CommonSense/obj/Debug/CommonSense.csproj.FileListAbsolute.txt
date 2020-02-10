@@ -1,0 +1,10 @@
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\bin\Debug\CommonSense.exe.config
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\bin\Debug\CommonSense.exe
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\bin\Debug\CommonSense.pdb
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\obj\Debug\CommonSense.csprojAssemblyReference.cache
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\obj\Debug\CommonSense.Form1.resources
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\obj\Debug\CommonSense.Properties.Resources.resources
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\obj\Debug\CommonSense.csproj.GenerateResource.cache
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\obj\Debug\CommonSense.csproj.CoreCompileInputs.cache
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\obj\Debug\CommonSense.exe
+C:\Users\Chachomado\source\repos\CommonSense\CommonSense\obj\Debug\CommonSense.pdb
